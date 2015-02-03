@@ -1,0 +1,13 @@
+.bac
+.inc
+.asa
+.txt
+.tgz
+.zip
+.tar
+.bak
+.old
+.swp
+.save
+.part
+~
